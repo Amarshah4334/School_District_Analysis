@@ -26,7 +26,9 @@ The grades of the ninth graders at Thomas High School have been changed. While a
 
 ### Actions requested to be performed
 •	Replace the 9th grade math and reading scores from Thomas High School.
+
 •	Keep all other data associated with the 9th grade students and Thomas High School intact.
+
 •	Compare data obtained with original dataset
 
 
