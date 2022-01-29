@@ -83,8 +83,12 @@ Thomas High School has a total student population size of 1,635 so it is categor
 Thomas High School is a Charter School and there is a drop in the percentage of students passing math, reading, and overall passing %.
 
 ### School Type 
-1. Before removing 9th grade scores at Thomas High School  
-2. After removing 9th grade scores at Thomas High School  
+### 1. Before removing 9th grade scores at Thomas High School  
+![image](https://user-images.githubusercontent.com/96351897/151655047-6e019bd0-8082-4a4c-86af-2842673e79c3.png)
+
+
+### 2. After removing 9th grade scores at Thomas High School  
+![image](https://user-images.githubusercontent.com/96351897/151655043-c8b1b78c-b78b-455d-85a3-308cff0e2901.png)
 
 
 
