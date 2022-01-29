@@ -14,13 +14,17 @@ This analysis a python-pandas evaluation of courses and grades in schools, where
 
 ## Resources
 Pandas & NumPy libraries Jupyter Notebook (Python Data environment created using Python 3.10 and Anaconda)
-This project utilized two datasets in csv format, 1. schools_complete.csv file which includes the following information’s in columns Student ID, school name, type, size, budget and 2. students_complete.csv file which includes the following information in columns Student ID, student_ name, gender, grade, school name, reading and math scores. In the analysis both datasets are imported, merged and the data is displayed in to python pandas data frame. The project is conducted in Jupyter notebook to view the report.
+This project utilized two datasets in csv format, 
+ 1. schools_complete.csv file which includes the following information’s in columns Student ID, school name, type, size, budget and 
+ 2. students_complete.csv file which includes the following information in columns Student ID, student_ name, gender, grade, school name, reading and math scores. 
+ In the analysis both datasets are imported, merged and the data is displayed in to python pandas data frame. The project is conducted in Jupyter notebook to view the report.
 
 
 
 ## Analysis
 The grades of the ninth graders at Thomas High School have been changed. While administrators do not know the full extent of this academic dishonesty, they want to uphold the standards of state testing and have turned to you for help.
-Actions requested to be performed
+
+### Actions requested to be performed
 •	Replace the 9th grade math and reading scores from Thomas High School.
 •	Keep all other data associated with the 9th grade students and Thomas High School intact.
 •	Compare data obtained with original dataset
