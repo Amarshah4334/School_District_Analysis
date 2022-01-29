@@ -4,7 +4,7 @@ Working with Anaconda, Pandas and Jupyter
 
 
 
-# Overview of the school district analysis: 
+# 1. Overview of the school district analysis: 
 
 
 ## Purpose.
@@ -21,7 +21,7 @@ This project utilized two datasets in csv format,
 
 
 
-## Analysis
+# 2. Analysis Results
 The grades of the ninth graders at Thomas High School have been changed. While administrators do not know the full extent of this academic dishonesty, they want to uphold the standards of state testing and have turned to you for help.
 
 ### Actions requested to be performed
@@ -135,7 +135,7 @@ Thomas High School is a Charter School and there is a drop in the percentage of 
 
 
 
-## Summary: 
+# 3. Summary: 
 1.	The overall passing rate for Thomas High School changed from 91% to 65%.
 2.	Thomas High School's ranking dropped from 2nd to 8th in the district of 15 campuses.
 3.	 Math and reading scores for 9th grade students will have Nan in their data set for Thomas High School
